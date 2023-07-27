@@ -1,6 +1,6 @@
 
 # Project_Cleaning_system
-<h1 align="center">Hi there, I'm <a href="https://vladporsh17@gmail.com/" target="_blank">Daniil</a> 
+<h1 align="center">Hi there, I'm <a href="https://vladporsh17@gmail.com/" target="_blank">Vladislav</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 Был разработан алгоритм на основе нейронной сети для транспортных средств с адаптивной системой управления, который позволяет производить сегментацию входного изображения с камеры, определять загрязнения, и производить оценку чистоты объектива камеры, для принятия решения по активации системы очистки.
 Он представляет собой нейронную сеть, где в качестве инкодера используется архитектура MobileNetV2, а в качестве декодера архитектура Unet.
