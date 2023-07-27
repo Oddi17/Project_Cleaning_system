@@ -351,6 +351,7 @@ def threshold_soil(pred,mask):
     img_per = cv2.putText(image_x,text_1, position,cv2.FONT_HERSHEY_SIMPLEX,0.5,color,1)
     return img_per,signal_value
 
+#Checking model
 # from keras.models import load_model
 # new_model_1 = load_model('****/model_224_mobilenetv2_unet_last_2.0.h5',custom_objects={'sm.losses.categorical_focal_loss':sm.losses.categorical_focal_loss},compile=False)
 # images_test = sorted(images)
